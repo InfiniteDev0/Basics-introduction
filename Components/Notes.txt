@@ -1,0 +1,19 @@
+Software engineering has these components that keep coming back they are 9:
+
+   Hardware  -- physical computer parts i.e. (CPU , RAM , Storage) 
+   Os (operating system)  -- interface between user and hardware and software i.e. ( Windows , Linux , MacOs)
+   Programming languages --- tools to write instruction to computers
+   Frontend (User interface) --- what the user sees ( HTML , CSS , Javascript)
+   Backend ( Logic , Db , Server) --- the logic of the application handles response to user ( Node.js , Django , PHP , Java) 
+   Api's( application programming interface) -- allows system to talk to each other: frontend <---> backend 
+   Databases --- stores , updates , retrieve , user data (SQL uses tables , NoSQL uses key value pairs e.g. MongoDb , Firebase DB) 
+   Cloud Services ---- stores data , its where the software is hosted , making scalable apps i.e. (AWS , FIREBASE , microsoft Azure , google cloud)
+   Dev Tools -- helps testing , building , debug i.e. 
+   ( 
+                                                         version control :  Git , Github , 
+                                                         testing APi: Postman , Thunderclient
+                                                         Debugging: Google DevTools
+   )
+                    
+
+   
